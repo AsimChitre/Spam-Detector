@@ -1,6 +1,6 @@
 # Spam-Detector
 
-Created by Rutvij Dave, Asim Chitre, Shaunak Alshi, Heet Chheda
+Created by Asim Chitre, Rutvij Dave, Shaunak Alshi, Heet Chheda
 
 This project consists of:
 
